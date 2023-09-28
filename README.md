@@ -1,6 +1,6 @@
 # Leaf Segmentation/Counting
 
-Credit for lime_explainer.py goes to Paul Ma. Aman Kumar is credited with YOLO counting implementation. All other code is credited to Peter Wu. Project report was written collaboratively between Paul Ma, Peter Wu and Aman Kumar.
+Credit for `lime_explainer.py` goes to Paul Ma. Aman Kumar is credited with YOLO counting implementation. All other code is credited to Peter Wu. Project report was written collaboratively between Paul Ma, Peter Wu and Aman Kumar.
 
 ## Data preparation
 
