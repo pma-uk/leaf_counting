@@ -1,5 +1,7 @@
 # Leaf Segmentation/Counting
 
+Credit for lime_explainer.py goes to Paul Ma. All other code is credited to Peter Wu.
+
 ## Data preparation
 
 Run `scripts/train_test_split.py` as follows:
